@@ -67,7 +67,7 @@ defmodule LullabeamRpi3.MixProject do
       maintainers: ["Nathan Long"],
       files: package_files(),
       licenses: ["Apache 2.0"],
-      links: %{"GitHub" => "https://github.com/nathanl/#{@app}"}
+      links: %{"GitHub" => "https://github.com/snow-jallen/#{@app}"}
     ]
   end
 
