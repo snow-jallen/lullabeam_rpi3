@@ -35,7 +35,7 @@ defmodule LullabeamRpi3.MixProject do
     [
       type: :system,
       artifact_sites: [
-        {:github_releases, "nathanl/#{@app}"}
+        {:github_releases, "snow-jallen/#{@app}"}
       ],
       build_runner_opts: build_runner_opts(),
       platform: Nerves.System.BR,
